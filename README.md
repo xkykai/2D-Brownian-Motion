@@ -11,6 +11,8 @@
 
 *Brownian Motion*
 
+---
+
 ## Important Notes
 There are 2 versions to most scripts: X_SCRIPT.py and X_SCRIPT_PARALLEL.py. X_SCRIPT_PARALLEL.py are multi-core processing enabled. I have written a parallelised version for scripts worth parallelising.
 
