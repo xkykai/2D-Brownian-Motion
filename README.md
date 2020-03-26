@@ -48,3 +48,8 @@ simulation.py : Contains the *Simulation* Class and methods for simulation.
 *Simulation* has a: *Ball*, *Container*, *Event*  
 *Container* is a: *Ball*  
 *Event* is a: *tuple*
+
+---
+
+### Support
+Contact me at xin.lee18@imperial.ac.uk
