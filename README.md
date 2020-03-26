@@ -30,9 +30,7 @@ Clone this repo into your machine and run numbered scripts to see the features i
 
 ### Modules
 ball.py : Contains the Ball and Container Class and methods for gas particles and container.
-
 event.py : Contains the Event Class for next collision events.
-
 simulation.py : Contains the Simulation Class and methods for simulation.
 
 ### Class Hierarchy
